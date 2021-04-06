@@ -1,11 +1,5 @@
 % Carbon content is predicted using Linear Regression model by observing
 % length of spark and angle of spark.
-% This data has been taken from:
-% Novateur Publications,
-% International Journal of Research publication in Engineering and
-% Technology [IJRPET]
-% ISSN : 2454-7875
-% Volume 3, Issue 4,April, 2017
 % This data is under taken following conditions:
 % RPM=3600, 3/4hp, 24 Newton force, Ceremic roller, Grain size=24 grit fine
 % length =length of spark=length of axis of spark/cos(40)
